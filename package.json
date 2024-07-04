@@ -1,0 +1,24 @@
+{
+  "name": "global-manager",
+  "version": "1.0.0",
+  "description": "A simple library for managing global variables in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fozan-Developer/global-manager.git"
+  },
+  "keywords": [
+    "global",
+    "global-manager",
+    "node.js"
+  ],
+  "author": "Mr_Fozan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fozan-Developer/global-manager/issues"
+  },
+  "homepage": "https://github.com/Fozan-Developer/global-manager#readme"
+}
