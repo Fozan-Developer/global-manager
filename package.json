@@ -1,6 +1,6 @@
 {
   "name": "global-manager",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple library for managing global variables in Node.js",
   "main": "index.js",
   "scripts": {
